@@ -1,3 +1,3 @@
 info:
   application:
-  	description: This the test client application for Spring Cloud Config Server
+    description: This the test client application for Spring Cloud Config Server

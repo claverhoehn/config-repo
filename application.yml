@@ -1,5 +1,5 @@
 info:
   description: Spring Cloud Samples
   application:
-  	description: Default application description
-  	environment: Default application environment
+    description: Default application description
+    environment: Default application environment
